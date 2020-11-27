@@ -122,7 +122,8 @@ module.exports = {
             ['/general/i18n', 'i18n'],
             ['/general/faceting', 'Faceting'],
             ['/general/logging', 'Logging'],
-            ['/general/performance', 'Performance']
+            ['/general/performance', 'Performance'],
+            ['/general/context', 'Context API']
           ]
         },
         {
